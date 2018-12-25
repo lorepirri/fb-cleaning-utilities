@@ -8,7 +8,9 @@ Free your mind from the clutter. Offline life is better.
 
 ## Remove Posts, Likes, Comments, Pages, Photos, Remove Tags, Almost all
 
-- pleaseRemoveMePlease.js
+More info in my blog post [Facebook: delete everything from timeline, no plugins](https://lorepirri.com/facebook-remove-delete-untag-unlike-all.html).
+
+- Use the code of this file: [pleaseRemoveMePlease.js](https://raw.githubusercontent.com/lorepirri/fb-cleaning-utilities/master/pleaseRemoveMePlease.js)
 
 ## Remove user from Going/Interested to events
 
