@@ -8,7 +8,9 @@ Free your mind from the clutter. Offline life is better.
 
 ## Remove Posts, Likes, Comments, Pages, Photos, Almost all
 
-- pleaseUnfollowFriendsPlease.js
+More info in my blog post [Facebook: unfollow all friends, no plugins](https://lorepirri.com/facebook-unfollow-all-friends-no-plugins.html).
+
+- Use the code of this file: [pleaseUnfollowFriendsPlease.js](https://raw.githubusercontent.com/lorepirri/fb-cleaning-utilities/master/pleaseUnfollowFriendsPlease.js)
 
 ## Remove user from events
 
