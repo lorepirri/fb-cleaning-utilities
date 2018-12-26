@@ -21,29 +21,29 @@ var pleaseRemoveMePlease = function () {
 
     var doActions = [];
 
-	var confirmRemoveTagDone = function(idx) {
+    var confirmRemoveTagDone = function(idx) {
         [...document.querySelectorAll('a[id="nfx_dialog_done"]')].forEach( (a) => { a.style.border = "thick solid red"; a.click(); });
-		setTimeout(removeMe, 7000, idx);
+        setTimeout(removeMe, 7000, idx);
     }
 
-	var confirmRemoveTag = function(idx) {
+    var confirmRemoveTag = function(idx) {
         [...document.querySelectorAll('a[id="NFXAction-UNTAG"]')].forEach( (a) => { a.style.border = "thick solid red"; a.click(); });
-		setTimeout(confirmRemoveTagDone, 7000, idx);
+        setTimeout(confirmRemoveTagDone, 7000, idx);
     }
     
-	var removeTagDone = function(idx) {
+    var removeTagDone = function(idx) {
         [...document.querySelectorAll('button[class~="layerConfirm"]')].forEach( (a) => { a.style.border = "thick solid red"; a.click(); });
-		setTimeout(confirmRemoveTag, 7000, idx);
+        setTimeout(confirmRemoveTag, 7000, idx);
     }
 
-	var removeTag = function(idx) {
+    var removeTag = function(idx) {
         [...document.querySelectorAll('input[value="annoying"]')].forEach( (a) => { a.style.border = "thick solid red"; a.click(); });
-		setTimeout(removeTagDone, 4000, idx);
+        setTimeout(removeTagDone, 4000, idx);
     }
     
-	var deleteMe = function(idx) {
+    var deleteMe = function(idx) {
         [...document.querySelectorAll('button[class~="layerConfirm"]')].forEach( (a) => { a.style.border = "thick solid red"; a.click(); });
-		setTimeout(removeMe, 7000, idx);
+        setTimeout(removeMe, 7000, idx);
     }
 
     var removeMe = function(idx) {
