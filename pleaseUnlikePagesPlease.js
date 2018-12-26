@@ -4,6 +4,7 @@
 // 3. Scroll down to have a reasonable number of items to delete (~500 is good)
 // 2. Paste the script into the console prompt (F12 to open the Developer tools)
 // 3. Type pleaseUnlikePagesPlease() and hit return
+// 4. Click on 'done'.
 
 var doActions = [];
 

@@ -5,6 +5,7 @@
 // 5. Scroll down entirely until all of your friends are visible in the thumbnail.
 // 6. Paste the script into the console prompt (F12 to open the Developer tools)
 // 7. Type pleaseUnfollowFriendsPlease() and hit return
+// 8. Click on 'done'.
 
 var doActions = [];
 
