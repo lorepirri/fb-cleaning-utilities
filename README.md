@@ -29,5 +29,3 @@ More info in my blog post [Facebook: automatically unfollow all friends](https:/
 More info in my blog post [Facebook: automatically unlike all pages](https://lorepirri.com/facebook-unlike-all-pages.html).
 
 - Use the code of this file: [pleaseUnlikePagesPlease.js](https://raw.githubusercontent.com/lorepirri/fb-cleaning-utilities/master/pleaseUnlikePagesPlease.js)
-
-- 
