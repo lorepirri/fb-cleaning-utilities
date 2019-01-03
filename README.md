@@ -38,8 +38,6 @@ More info in my blog post [Facebook: automatically delete all messages](https://
 
 ## Unfriend all friends
 
-
-
 More info in my blog post [Facebook: automatically unfriend all friends](https://lorepirri.com/facebook-unfriend-all-friends.html).
 
 - Use the code of this file: [pleaseUnfriendAllPlease.js](https://raw.githubusercontent.com/lorepirri/fb-cleaning-utilities/master/pleaseUnfriendAllPlease.js)
