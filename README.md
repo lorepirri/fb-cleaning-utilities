@@ -35,3 +35,12 @@ More info in my blog post [Facebook: automatically unlike all pages](https://lor
 More info in my blog post [Facebook: automatically delete all messages](https://lorepirri.com/facebook-delete-all-messages.html).
 
 - Use the code of this file: [pleaseRemoveDiscussionPlease.js](https://raw.githubusercontent.com/lorepirri/fb-cleaning-utilities/master/pleaseRemoveDiscussionPlease.js)
+
+## Unfriend all friends
+
+
+
+More info in my blog post [Facebook: automatically unfriend all friends](https://lorepirri.com/facebook-unfriend-all-friends.html).
+
+- Use the code of this file: [pleaseUnfriendAllPlease.js](https://raw.githubusercontent.com/lorepirri/fb-cleaning-utilities/master/pleaseUnfriendAllPlease.js)
+
