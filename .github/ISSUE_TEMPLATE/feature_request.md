@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: enhancement
+labels: feature
 assignees: ''
 
 ---
@@ -23,10 +23,13 @@ I want to ...
 so that ...
 -->
 
+
 <!-- Optional
 **Use Cases**
 
 The use case describes a series of user and system interactions that helps users accomplish something they wanted to accomplish.
+
+This is useful in case of UI/UX features requests.
 
 The use case technique prescribes a simple step-by-step procedure for how the actor accomplishes the use case. For example, a use case for Step and Repeat might start out as follows: 
 
@@ -37,15 +40,18 @@ The use case technique prescribes a simple step-by-step procedure for how the ac
 See: http://haumer.net/rational/files/feat_uc_req_wp.pdf
 -->
 
+
 <!-- Optional
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Alternative Solutions**
+Describe alternatives you've considered. A clear and concise description of any alternative solutions or features you've considered.
 -->
+
 
 <!-- Optional
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 -->
+
 
 <!-- Optional
 **Additional context**
