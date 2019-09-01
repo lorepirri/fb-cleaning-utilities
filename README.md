@@ -42,3 +42,9 @@ More info in my blog post [Facebook: automatically unfriend all friends](https:/
 
 - Use the code of this file: [pleaseUnfriendAllPlease.js](https://raw.githubusercontent.com/lorepirri/fb-cleaning-utilities/master/pleaseUnfriendAllPlease.js)
 
+## Group admin: delete all pending posts
+
+Approving a post is way faster than deleting one. It was making me losing a lot of time. Now I approve only the few posts relevant to the group topic and leave the trash to the bot.
+
+- Use the code of this file: [pleaseDeletePendingPostPlease.js](https://raw.githubusercontent.com/lorepirri/fb-cleaning-utilities/master/pleaseDeletePendingPostPlease.js)
+
