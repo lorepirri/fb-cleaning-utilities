@@ -25,7 +25,7 @@ var pleaseUnlikePagesPlease = function () {
 
     var idx=0;
     
-    [...document.querySelectorAll('a[action="button"]')].forEach( (a) => { if (a.innerHTML ==="Unlike") { doActions[idx++] = a; } });
+    [...document.querySelectorAll('button[type="button"]')].forEach( (a) => { if (a.innerHTML.includes("Liked")) { doActions[idx++] = a; } });
     
     unlikePage(0);
 }
