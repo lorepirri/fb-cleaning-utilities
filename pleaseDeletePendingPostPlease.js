@@ -5,6 +5,9 @@
 // 2. Paste the script into the console prompt (F12 to open the Developer tools)
 // 3. Type pleaseDeletePendingPostPlease() and hit return
 
+// update 11/July/2020:
+// - new FB layout
+
 var new_decline_button_selector =
   'div[role="button"][aria-label="Decline"]:not([aria-disabled="true"])';
 var decline_button_selector =

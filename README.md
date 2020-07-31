@@ -24,7 +24,7 @@ More info in my blog post [Facebook: unfollow all friends](https://lorepirri.com
 
 - Use the code of this file: [pleaseUnfollowFriendsPlease.js](https://raw.githubusercontent.com/lorepirri/fb-cleaning-utilities/master/pleaseUnfollowFriendsPlease.js)
 
-## Unlike all Pages
+## Unlike all Pages _[updated 31/July/2020]_
 
 More info in my blog post [Facebook: unlike all pages](https://lorepirri.com/facebook-unlike-all-pages.html).
 
@@ -42,7 +42,7 @@ More info in my blog post [Facebook: unfriend all friends](https://lorepirri.com
 
 - Use the code of this file: [pleaseUnfriendAllPlease.js](https://raw.githubusercontent.com/lorepirri/fb-cleaning-utilities/master/pleaseUnfriendAllPlease.js)
 
-## Group admin: delete all pending posts _updated 11/July/2020_
+## Group admin: delete all pending posts _[updated 11/July/2020]_
 
 Approving a post is way faster than deleting one. It was making me losing a lot of time. Now I approve only the few posts relevant to the group topic and leave the trash to the bot.
 

@@ -6,6 +6,9 @@
 // 3. Type pleaseUnlikePagesPlease() and hit return
 // 4. Click on 'done'.
 
+// update 31/July/2020:
+// - new FB layout
+
 var doActions = [];
 
 var pleaseUnlikePagesPlease = function () {
